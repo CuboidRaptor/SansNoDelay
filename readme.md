@@ -1,3 +1,7 @@
+# THIS IS A FORK OF BAD TIME SIMLULATOR
+## I just removed delay I'm creative
+## Original docs from Jcw87 are below
+
 # Bad Time Simulator (Sans Fight)
 This project is a clone of the sans fight from [Undertale](http://undertale.com/).
 It was made with [Construct 2](https://www.scirra.com/construct2).
